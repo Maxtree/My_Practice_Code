@@ -53,7 +53,7 @@ public class testString {
 		for (int i = 0; i < 1000; i++) {
 			ph.append(i);
 		}
-		System.out.println(ph);1212;
+		System.out.println(ph);kkk
 	}
 }
 
